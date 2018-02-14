@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Nightwatch" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="node_modules" />
+      <sourceFilesUrls>
+        <item url="file://$USER_HOME$/node_modules/nightwatch/lib" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$USER_HOME$/node_modules/nightwatch/lib" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
